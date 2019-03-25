@@ -1,0 +1,2 @@
+\beamer@sectionintoc {1}{举例}{3}{0}{1}
+\beamer@sectionintoc {2}{总结}{6}{0}{2}
